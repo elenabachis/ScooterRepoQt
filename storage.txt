@@ -1,0 +1,57 @@
+Identifier,Modell,Inbetriebnahmedatum,Kilometer,Standort,Status
+12D,Vega,2003-3-20,1200,Los Angeles Street nr 1,parked
+13D,V,2003-4-20,1300,Los Angeles Street nr 1,reserved
+17D,Suc,2012-3-20,12500,Tokyo Street nr 1,in use
+10D,Maro,2012-5-20,5200,Los Angeles Street nr 1,reserved
+134D,Csem,2012-3-1,12050,Berlin Street nr 1,parked
+13DA,Knoll,2010-1-2,12500,Vienna Street nr 1,out of order
+16G,Dede,2011-1-2,12050,Bistrita Street nr 1,out of order
+123D,Maro,2015-6-3,12050,Los Angeles Street nr 1,parked
+15D,Coco,2011-3-1,800,Bucharest Street nr 1,in use
+131D,Roco,2022-2-1,150,Ibiza Street nr 1,in service
+1323D,Selo,2012-3-1,500,Madrid Street nr 1,parked
+12D,Vega,2003-3-20,1200,Los Angeles Street nr 1,parked
+13D,V,2003-4-20,1300,Los Angeles Street nr 1,reserved
+17D,Suc,2012-3-20,12500,Tokyo Street nr 1,in use
+10D,Maro,2012-5-20,5200,Los Angeles Street nr 1,reserved
+134D,Csem,2012-3-1,12050,Berlin Street nr 1,parked
+13DA,Knoll,2010-1-2,12500,Vienna Street nr 1,out of order
+16G,Dede,2011-1-2,12050,Bistrita Street nr 1,out of order
+123D,Maro,2015-6-3,12050,Los Angeles Street nr 1,parked
+15D,Coco,2011-3-1,800,Bucharest Street nr 1,in use
+131D,Roco,2022-2-1,150,Ibiza Street nr 1,in service
+1323D,Selo,2012-3-1,500,Madrid Street nr 1,parked
+12D,Vega,2003-3-20,1200,Los Angeles Street nr 1,parked
+13D,V,2003-4-20,1300,Los Angeles Street nr 1,reserved
+17D,Suc,2012-3-20,12500,Tokyo Street nr 1,in use
+10D,Maro,2012-5-20,5200,Los Angeles Street nr 1,reserved
+134D,Csem,2012-3-1,12050,Berlin Street nr 1,parked
+13DA,Knoll,2010-1-2,12500,Vienna Street nr 1,out of order
+16G,Dede,2011-1-2,12050,Bistrita Street nr 1,out of order
+123D,Maro,2015-6-3,12050,Los Angeles Street nr 1,parked
+15D,Coco,2011-3-1,800,Bucharest Street nr 1,in use
+131D,Roco,2022-2-1,150,Ibiza Street nr 1,in service
+1323D,Selo,2012-3-1,500,Madrid Street nr 1,parked
+12D,Vega,2003-3-20,1200,Los Angeles Street nr 1,parked
+13D,V,2003-4-20,1300,Los Angeles Street nr 1,reserved
+17D,Suc,2012-3-20,12500,Tokyo Street nr 1,in use
+10D,Maro,2012-5-20,5200,Los Angeles Street nr 1,reserved
+134D,Csem,2012-3-1,12050,Berlin Street nr 1,parked
+13DA,Knoll,2010-1-2,12500,Vienna Street nr 1,out of order
+16G,Dede,2011-1-2,12050,Bistrita Street nr 1,out of order
+123D,Maro,2015-6-3,12050,Los Angeles Street nr 1,parked
+15D,Coco,2011-3-1,800,Bucharest Street nr 1,in use
+131D,Roco,2022-2-1,150,Ibiza Street nr 1,in service
+1323D,Selo,2012-3-1,500,Madrid Street nr 1,parked
+12D,Vega,2003-3-20,1200,Los Angeles Street nr 1,parked
+13D,V,2003-4-20,1300,Los Angeles Street nr 1,reserved
+17D,Suc,2012-3-20,12500,Tokyo Street nr 1,in use
+10D,Maro,2012-5-20,5200,Los Angeles Street nr 1,reserved
+134D,Csem,2012-3-1,12050,Berlin Street nr 1,parked
+13DA,Knoll,2010-1-2,12500,Vienna Street nr 1,out of order
+16G,Dede,2011-1-2,12050,Bistrita Street nr 1,out of order
+123D,Maro,2015-6-3,12050,Los Angeles Street nr 1,parked
+15D,Coco,2011-3-1,800,Bucharest Street nr 1,in use
+131D,Roco,2022-2-1,150,Ibiza Street nr 1,in service
+1323D,Selo,2012-3-1,500,Madrid Street nr 1,parked
+125,Honda,2023-6-7,12,Strada Govora 18,in use

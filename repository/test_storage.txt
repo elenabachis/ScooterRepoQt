@@ -1,0 +1,3 @@
+Identifier,Modell,Inbetriebnahmedatum,Kilometer,Standort,Status
+123,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+124,Honda,2022-4-2,500,Strada Mamaia 20,parked
